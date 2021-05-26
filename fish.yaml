@@ -1,0 +1,9 @@
+# diy
+train: ../yolov5-fish/images/  #images
+val: ../yolov5-fish/images/  #images
+
+# number of classes
+nc: 1
+
+# class names
+names: ['fish']
